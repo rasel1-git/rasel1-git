@@ -42,3 +42,10 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 ![Rasel Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rasel1-git&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel1-git&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel1-git&show_icons=true&locale=en" alt="rasel1-git" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel1-gitn&" alt="rasel1-git" /></p>
