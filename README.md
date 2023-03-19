@@ -37,9 +37,11 @@ I'm Rasel Hasan, a Full Stack Web Application Developer from <img src="https://i
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
 
 
-#### Github Stats
-[
-	https://github-readme-activity-graph.cyclic.app/graph?username=rasel1-gi}](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel1-git)
+#### Github activity
+	<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=rasel1-git](https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name})&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
+
+
+	https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}
 
 </details>
 
