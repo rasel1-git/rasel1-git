@@ -48,4 +48,4 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel1-git&show_icons=true&locale=en" alt="rasel1-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel1-gitn&" alt="rasel1-git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel1-git&" alt="rasel1-git" /></p>
