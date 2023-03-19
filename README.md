@@ -38,10 +38,9 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 #### Github activity
-	<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=rasel1-git](https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name})&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
+	<p><img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=rasel1-git&theme=tokyo-night&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
 
 
-	https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}
 
 </details>
 
