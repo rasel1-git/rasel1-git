@@ -38,8 +38,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 #### Github Stats
-
-![Rasel Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rasel1-git&count_private=true&theme=tokyonight&hide=contribs,prs)
+[
+	https://github-readme-activity-graph.cyclic.app/graph?username=rasel1-gi}](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel1-git)
 
 </details>
 
