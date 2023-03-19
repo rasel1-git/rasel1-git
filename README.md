@@ -27,23 +27,6 @@ I'm Rasel Hasan, a Full Stack Web Application Developer from <img src="https://i
 #### Profile Visits:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rasel1-git.visitor-badge&left_color=red&right_color=green) 
 
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
-
-
-#### Github activity
-	<p><img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=rasel1-git&theme=tokyo-night&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
-
-
-
-</details>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel1-git&show_icons=true&locale=en&layout=compact" alt="rasel1-git" /></p>
 
